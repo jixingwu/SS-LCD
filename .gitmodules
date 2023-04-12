@@ -1,0 +1,6 @@
+[submodule "VINS-Fusion"]
+	path = VINS-Fusion
+	url = https://github.com/HKUST-Aerial-Robotics/VINS-Fusion.git
+[submodule "VisualDet3D"]
+	path = VisualDet3D
+	url = https://github.com/Owen-Liuyuxuan/visualDet3D.git
