@@ -53,11 +53,7 @@ ceres solver: follow [Ceres Installation](http://ceres-solver.org/installation.h
 
 1.4 Spatial layout difference computing
 
-With the object detection results and pose estimation results, you can test your own loop detection and store its results as two files, such as **graph1.txt, graph2.txt**. To compute the graphs edit distance, you can run:
-
-```bash
-./SL path_to_graph1/graph1.txt path_to_graph2/graph2.txt
-```
+With the object detection results and pose estimation results, you can test your own loop detection and store its results as two files, such as **graph1.txt, graph2.txt**.
 
 The executable program will output the matched nodes with minimum distance between graph1 and graph2.
 
